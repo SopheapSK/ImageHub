@@ -1,0 +1,14 @@
+[
+  {
+    "name": "banner_3.jpg",
+    "index": 0
+  },
+  {
+    "name": "banner_1.jpg",
+    "index": 1
+  },
+  {
+    "name": "banner_2.png",
+    "index": 2
+  }
+]
